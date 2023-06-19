@@ -1,0 +1,14 @@
+.posts {
+  width: 90%;
+  max-width: 70rem;
+  margin: var(--size-8) auto;
+  padding-bottom: var(--size-8);
+}
+
+.posts h1 {
+  font-size: var(--size-6);
+  margin: var(--size-12);
+  color: #fff;
+  text-align: center;
+  margin-bottom: var(--size-10);
+}

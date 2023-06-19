@@ -1,0 +1,41 @@
+.content {
+  width: 90%;
+  max-width: 60rem;
+  margin: var(--size-8) auto;
+  line-height: var(--size-7);
+  background-color: #fff;
+  color: #000;
+  padding: var(--size-4);
+  font-family: "Montserrat", sans-serif;
+}
+
+.content h1 {
+  font-size: var(--size-6);
+}
+
+.content h2 {
+  font-size: var(--size-5);
+}
+
+.content h2 {
+  font-size: var(--size-4);
+}
+
+.content .image {
+  display: flex;
+  justify-content: center;
+  margin: var(--size-4) auto;
+  width: 100%;
+}
+
+.content .image img {
+  max-width: 100%;
+  object-fit: contain;
+}
+
+@media (min-width: 768px) {
+  .content {
+    width: 100%;
+    padding: var(--size-14);
+  }
+}
