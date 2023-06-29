@@ -1,8 +1,8 @@
 ---
 title: "Next 13 & the new app router"
-date: "2023-06-29"
-image: "next-13.jpg"
-excerpt: "..."
+date: "2023-06-19"
+image: "next-13.png"
+excerpt: "Next is currently improving the routing and layouts experience and aligning with the future of React..."
 isFeatured: false
 ---
 
