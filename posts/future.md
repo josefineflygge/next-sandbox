@@ -20,6 +20,8 @@ Next is currently improving the routing and layouts experience and aligning with
 - Client components are similar to the previous type of components in next.js, can use browser, event listeners, all hooks, provide interactivity and ship their JS code to the client
 - All components in app-router are server components by default, using "use client" on the top of the file specifies client component
 
+- [More here, including concrete examples. ](https://www.freecodecamp.org/news/react-server-components-for-beginners/)
+
 **Layouts**
 
 - Render a child component (passed automatically and is the page.js component)
